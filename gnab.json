@@ -6,14 +6,14 @@
             "bin": [
                 "gnab.exe"
             ],
-            "hash": "e05b3a8aa6930b754933edd06a133bb67b5693321d431a29fa0eab63005e41ce"
+            "hash": "e51defcc583fcc0fd1a8e53d933daaea2abc4f6cc58774cfa02f22fe5f88f5a4"
         },
         "arm64": {
             "url": "https://github.com/vngcloud/gnab-releases/releases/download/v1.0.8/gnab_1.0.8_windows_arm64.zip",
             "bin": [
                 "gnab.exe"
             ],
-            "hash": "c819f8cd3e1847107c45383c72d288400352d41668e32cb2c5375355a1475603"
+            "hash": "4e036402a75ddb660e20aa4241a1aea9d2d428295ffc6a6c08254b9cc60f5243"
         }
     },
     "homepage": "https://github.com/vngcloud/gnab-releases",
