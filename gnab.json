@@ -1,19 +1,19 @@
 {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vngcloud/gnab-releases/releases/download/v1.0.8/gnab_1.0.8_windows_amd64.zip",
+            "url": "https://github.com/vngcloud/gnab-releases/releases/download/v1.0.9/gnab_1.0.9_windows_amd64.zip",
             "bin": [
                 "gnab.exe"
             ],
-            "hash": "e51defcc583fcc0fd1a8e53d933daaea2abc4f6cc58774cfa02f22fe5f88f5a4"
+            "hash": "62179483ed6c5e974b759bcc87a5609afee8ca53b3119f76e2bb51ffc1587fcc"
         },
         "arm64": {
-            "url": "https://github.com/vngcloud/gnab-releases/releases/download/v1.0.8/gnab_1.0.8_windows_arm64.zip",
+            "url": "https://github.com/vngcloud/gnab-releases/releases/download/v1.0.9/gnab_1.0.9_windows_arm64.zip",
             "bin": [
                 "gnab.exe"
             ],
-            "hash": "4e036402a75ddb660e20aa4241a1aea9d2d428295ffc6a6c08254b9cc60f5243"
+            "hash": "2dd23797095452314969a9380aa7c37f8b92d340ad980fea2cf1544d5aae8aa0"
         }
     },
     "homepage": "https://github.com/vngcloud/gnab-releases",
