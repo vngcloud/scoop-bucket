@@ -1,0 +1,22 @@
+{
+    "version": "1.0.14",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/vngcloud/gnab-releases/releases/download/v1.0.14/greennode_1.0.14_windows_amd64.zip",
+            "bin": [
+                "greennode.exe"
+            ],
+            "hash": "77aed9fab2ba38e601a059baf440ff480b9d5eaf0b10787cf116bea273ffa408"
+        },
+        "arm64": {
+            "url": "https://github.com/vngcloud/gnab-releases/releases/download/v1.0.14/greennode_1.0.14_windows_arm64.zip",
+            "bin": [
+                "greennode.exe"
+            ],
+            "hash": "4e387d671f2702a21649248bd5d07e798d6f1f27708b5993677f5d94a180d160"
+        }
+    },
+    "homepage": "https://github.com/vngcloud/gnab-releases",
+    "license": "MIT",
+    "description": "GreenNode AgentBase CLI"
+}
