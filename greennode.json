@@ -1,19 +1,19 @@
 {
-    "version": "1.0.15",
+    "version": "1.0.16",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vngcloud/gnab-releases/releases/download/v1.0.15/greennode_1.0.15_windows_amd64.zip",
+            "url": "https://github.com/vngcloud/gnab-releases/releases/download/v1.0.16/greennode_1.0.16_windows_amd64.zip",
             "bin": [
                 "greennode.exe"
             ],
-            "hash": "5d57b0795ef1d3c332bf7e0731fa65f468973ccd8605c163b531f90b0f8b35b4"
+            "hash": "3ec4b88daeafd73d225d3efd6d9539a32bc5533779a7c1dca2130a9feb1eb389"
         },
         "arm64": {
-            "url": "https://github.com/vngcloud/gnab-releases/releases/download/v1.0.15/greennode_1.0.15_windows_arm64.zip",
+            "url": "https://github.com/vngcloud/gnab-releases/releases/download/v1.0.16/greennode_1.0.16_windows_arm64.zip",
             "bin": [
                 "greennode.exe"
             ],
-            "hash": "44a881ae588ecfa62713de9856dbdbf8fd674bd139989ec3adcabb0c838fd546"
+            "hash": "fcfbb5105acf4c74f66b7451e1d4c07204a9544321bb3d4f5d4ad791d0b9af5f"
         }
     },
     "homepage": "https://github.com/vngcloud/gnab-releases",
